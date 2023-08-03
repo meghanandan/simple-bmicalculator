@@ -1,4 +1,4 @@
-# Simple React Bootstrap Login, SignUp, Welcome
+# Simple React BMI Calculator
 
 This application is about simple BMI (Body Mass Index) Calculator developed using ReactJS.
 
