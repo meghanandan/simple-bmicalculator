@@ -1,0 +1,70 @@
+body{
+  background-color: #2196F3;
+}
+h1{
+  margin: 0 0 0.5rem;
+  font-size: 1.8rem;
+  color: cadetblue;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+.content {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 0.2rem;
+  box-shadow: 0.2rem 0.2rem 0.2rem rgb(0 0 0 / 31%);
+}
+.form-inline{
+  
+}
+.form-group{
+
+}
+.form-group label{
+
+}
+.btn-group{
+  text-align: right;
+  margin-right: 0.7rem;
+}
+.form-group input{
+  width: auto;
+  margin: 0.2rem 0.8rem;
+  padding: 0.5rem 0.4rem;
+  border: 1px solid #b3b3b3;
+  border-radius: 0.2rem;
+}
+.btn{
+  color: #fff;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0 0;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+.btn.btn-primary{
+  background-color: #2196F3;
+  border: 1px solid #2196f3;
+}
+.btn-primary:hover, .btn-primary:active{
+  background-color: #127fd7;
+}
+.btn.btn-secondary{
+  background-color: #9E9E9E;
+  border: 1px solid #9e9e9e;
+  margin-left: 0.5rem;
+}
+.btn-secondary:hover, .btn-secondary:active{
+  background-color: #9e9e9e;
+}
+.showMessage{
+  margin: 1rem 0 0;
+  background-color: #A0FFDE;
+  padding: 0.5rem;
+  border-radius: 0.2rem;  
+  box-shadow: 0.2rem 0.2rem 0.2rem rgb(0 0 0 / 31%);
+}
